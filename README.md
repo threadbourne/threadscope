@@ -1,5 +1,5 @@
-# threadscope
-Bring Your Own Thread - Upload a CSV to visualize long-form interaction dynamics
+# Threadscope
+Bring Your Own Thread - Upload a CSV to visualize long-form interaction dynamics.
 Visualizes long-form interaction dynamics such as drift, stability, and perturbation response.
 
 # Supported transcript format:
