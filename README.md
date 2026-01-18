@@ -5,8 +5,8 @@ Visualizes long-form interaction dynamics such as drift, stability, and perturba
 # Supported transcript format:
 Transcripts that use explicit speaker markers, for example:
 
-'You said: Hello'
-'ChatGPT said: Hi there'
+- 'You said: Hello'
+- 'ChatGPT said: Hi there'
 
 Marker strings are configurable in the UI, but the transcript must follow a consistent “marker → content” pattern.
 
@@ -28,7 +28,4 @@ The output generates a CSV which includes the following columns:
 
 # Privacy
 Files are processed in-session only and are not stored.
- 
 
-Privacy
-Files are processed in-session only and are not stored.
